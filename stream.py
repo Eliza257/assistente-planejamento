@@ -3,7 +3,7 @@ import streamlit as st
 # Dados simulados de ganhos mensais por pacote
 ganhos = {
     "Horas Extras": {
-        "Janeiro": 30000, "Fevereiro": 1200, "Março": 1100, "Abril": 950,
+        "Janeiro": 20000, "Fevereiro": 1200, "Março": 1100, "Abril": 950,
         "Maio": 1300, "Junho": 1250, "Julho": 1400, "Agosto": 1350,
         "Setembro": 1200, "Outubro": 1500, "Novembro": 1450, "Dezembro": 1600
     },
